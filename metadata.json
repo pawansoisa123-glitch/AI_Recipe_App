@@ -1,0 +1,6 @@
+{
+  "name": "Ingredient Match",
+  "description": "Take or upload a photo of any food or ingredient (like an apple) to discover delicious recipes, cakes, desserts, and drinks you can make, complete with step-by-step methods and required ingredients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
